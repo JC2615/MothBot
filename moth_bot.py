@@ -1,4 +1,4 @@
-TOKEN = 'NTMwOTQ3NzAyNTQwODYxNDQw.DxG1EA.-tt8Ehe0FWtod8ci5hzsoz9s-rY'
+TOKEN = '################'
 
 import discord, random
 
